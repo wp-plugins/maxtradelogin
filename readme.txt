@@ -65,7 +65,13 @@ the 'Plugins' menu in WordPress.
 
 == Screenshots ==
 
-1. screenshot-1.png
+1. Main menu to manage users, after login.
+2. Main menu to manage users, before login.
+3. Form to register new user.
+4. Form to change lost password.
+5. Form to change profile data.
+6. MaxtradeLogin admin settings.
+7. MTL User widget settings.
 
 == Changelog ==
 
