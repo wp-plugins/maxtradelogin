@@ -1,0 +1,573 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: MaxtradeLogin v1.0.1\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: 2015-05-31 09:14:33+0000\n"
+"Last-Translator: admin <home@avalonbg.com>\n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: CSL v1.x\n"
+"X-Poedit-Language: Bulgarian\n"
+"X-Poedit-Country: BULGARIA\n"
+"X-Poedit-SourceCharset: utf-8\n"
+"X-Poedit-KeywordsList: __;_e;__ngettext:1,2;_n:1,2;__ngettext_noop:1,2;_n_noop:1,2;_c,_nc:4c,1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;_nx_noop:4c,1,2;\n"
+"X-Poedit-Basepath: ../\n"
+"X-Poedit-Bookmarks: \n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Textdomain-Support: yes"
+
+#. translators: plugin header field 'Author'
+#: maxtrade-login.php:0
+#@ mtltextdomain
+msgid "Ilko Ivanov"
+msgstr "Ilko Ivanov"
+
+#. translators: plugin header field 'Version'
+#: maxtrade-login.php:0
+#@ mtltextdomain
+msgid "1.0.1"
+msgstr "1.0.1"
+
+#: includes/login_widgets.php:106
+#@ mtltextdomain
+msgid "Title:"
+msgstr "Заглавие:"
+
+#: includes/mtl_import_admin.php:22
+#@ mtltextdomain
+msgid "Options saved."
+msgstr "Настройките са записани успешно."
+
+#: includes/mtl_import_admin.php:89
+#@ mtltextdomain
+msgid "Update Options"
+msgstr "Променете настройките"
+
+#: includes/author.php:9
+#: includes/login_widgets.php:38
+#@ mtltextdomain
+msgid "User:"
+msgstr "Потребител:"
+
+#: includes/login_widgets.php:8
+#@ mtltextdomain
+msgid "User management sistem widget"
+msgstr "Управление на регистрацията на потребителите в сайта"
+
+#: includes/login_widgets.php:42
+#@ mtltextdomain
+msgid "E-Mail: "
+msgstr "E-Mail: "
+
+#: includes/login_widgets.php:64
+#@ mtltextdomain
+msgid "Exit"
+msgstr "Изход"
+
+#: includes/login_widgets.php:66
+#@ mtltextdomain
+msgid "New registration"
+msgstr "Нова регистрация"
+
+#: includes/login_widgets.php:67
+#@ mtltextdomain
+msgid "Lost password"
+msgstr "Забравена парола"
+
+#: includes/login_widgets.php:68
+#@ mtltextdomain
+msgid "Login"
+msgstr "Вход"
+
+#: includes/login_widgets.php:110
+#@ mtltextdomain
+msgid "Show username"
+msgstr "Показвай името"
+
+#: includes/login_widgets.php:113
+#@ mtltextdomain
+msgid "Show email"
+msgstr "Показвай email"
+
+#: includes/login_widgets.php:116
+#@ mtltextdomain
+msgid "Display name "
+msgstr "Показвай краткото име"
+
+#: includes/login_widgets.php:127
+#@ mtltextdomain
+msgid "Profile url:"
+msgstr "Адрес на страницата за настройки:"
+
+#: includes/login_widgets.php:130
+#@ mtltextdomain
+msgid "New register url:"
+msgstr "Адрес на страницата за нова регистрация:"
+
+#: includes/login_widgets.php:133
+#@ mtltextdomain
+msgid "Lost password url:"
+msgstr "Адрес на страницата за забравена парола:"
+
+#: includes/profile.php:5
+#: includes/registration.php:5
+#@ mtltextdomain
+msgid "All fields marked with * are mandatory."
+msgstr "Всички полета отбелязани със знака * са задължителни за попълване."
+
+#: includes/profile.php:13
+#: includes/registration.php:13
+#@ mtltextdomain
+msgid "Username *"
+msgstr "Потребителско име *"
+
+#: includes/profile.php:14
+#: includes/registration.php:14
+#@ mtltextdomain
+msgid "Login Username - mandatory"
+msgstr "Потребителско име за вход в системата. Задължително."
+
+#: includes/profile.php:22
+#: includes/registration.php:22
+#@ mtltextdomain
+msgid "Password *"
+msgstr "Парола *"
+
+#: includes/profile.php:23
+#: includes/registration.php:23
+#@ mtltextdomain
+msgid "User password - mandatory"
+msgstr "Парола за вход в системата. Задължителна."
+
+#: includes/profile.php:31
+#: includes/registration.php:31
+#@ mtltextdomain
+msgid "Email *"
+msgstr "Email *"
+
+#: includes/profile.php:32
+#: includes/registration.php:32
+#@ mtltextdomain
+msgid "User email - mandatory"
+msgstr "Потребителски email. Задължителен."
+
+#: includes/profile.php:40
+#: includes/registration.php:40
+#@ mtltextdomain
+msgid "Website"
+msgstr "Уебсайт"
+
+#: includes/profile.php:41
+#: includes/registration.php:41
+#@ mtltextdomain
+msgid "User website, if exist"
+msgstr "Уебсаит на потребителя, ако има такъв."
+
+#: includes/profile.php:49
+#: includes/registration.php:49
+#@ mtltextdomain
+msgid "First Name"
+msgstr "Име"
+
+#: includes/profile.php:50
+#: includes/registration.php:50
+#@ mtltextdomain
+msgid "User first name"
+msgstr "Име на потребителя."
+
+#: includes/profile.php:58
+#: includes/registration.php:58
+#@ mtltextdomain
+msgid "Last Name"
+msgstr "Фамилия"
+
+#: includes/profile.php:59
+#: includes/registration.php:59
+#@ mtltextdomain
+msgid "User last name"
+msgstr "Фамилия на потребителя."
+
+#: includes/profile.php:67
+#: includes/registration.php:67
+#@ mtltextdomain
+msgid "Nickname"
+msgstr "Име за показване"
+
+#: includes/profile.php:68
+#: includes/registration.php:68
+#@ mtltextdomain
+msgid "User display name"
+msgstr "Името което се показва в сайта."
+
+#: includes/profile.php:76
+#: includes/registration.php:76
+#@ mtltextdomain
+msgid "About / Bio"
+msgstr "Допълнителни данни"
+
+#: includes/profile.php:77
+#: includes/registration.php:77
+#@ mtltextdomain
+msgid "User biographical data"
+msgstr "Допълнителни данни които Ви описват на другите потребители. Адрес, Телефон и др."
+
+#: includes/profile.php:87
+#: includes/registration.php:87
+#@ mtltextdomain
+msgid "If you have filled in all the data correctly, please:"
+msgstr "Ако сте попълнили коректно всички данни моля изберете бутона Регистрация, за да направите регистрацията си."
+
+#: includes/registration.php:88
+#@ mtltextdomain
+msgid "Register"
+msgstr "Регистрация"
+
+#: includes/registration.php:109
+#@ mtltextdomain
+msgid "Username too short. At least 4 characters is required"
+msgstr "Потребителското име е твърде кратко. Трябва да е с поне 4 символа."
+
+#: includes/registration.php:112
+#@ mtltextdomain
+msgid "Sorry, that username already exists!"
+msgstr "Това потребителско име вече съществува!"
+
+#: includes/registration.php:114
+#@ mtltextdomain
+msgid "Sorry, the username you entered is not valid"
+msgstr "Потребителското име което сте въвели не е валидно."
+
+#: includes/profile.php:106
+#: includes/registration.php:117
+#@ mtltextdomain
+msgid "Password length must be greater than 5"
+msgstr "Големината на полето за парола трябва да е поне 5 символа."
+
+#: includes/profile.php:109
+#: includes/registration.php:120
+#@ mtltextdomain
+msgid "Email is not valid"
+msgstr "Email - ът Ви не е валиден."
+
+#: includes/profile.php:113
+#: includes/registration.php:123
+#@ mtltextdomain
+msgid "Email Already in use"
+msgstr "Този Email вече се използва в системата ни."
+
+#: includes/profile.php:118
+#: includes/registration.php:127
+#@ mtltextdomain
+msgid "Website is not a valid URL"
+msgstr "Уебсайтът Ви не е валиден."
+
+#: includes/profile.php:127
+#: includes/recover.php:122
+#: includes/registration.php:136
+#@ mtltextdomain
+msgid "ERROR"
+msgstr "ГРЕШКА"
+
+#: includes/registration.php:159
+#@ mtltextdomain
+msgid "Registration complete. Goto"
+msgstr "Регистрацията приключи успешно. Посетете"
+
+#: includes/profile.php:231
+#: includes/registration.php:159
+#@ mtltextdomain
+msgid "login page"
+msgstr "страницата за вход в системата"
+
+#: includes/registration.php:100
+#@ mtltextdomain
+msgid "Username is missing!"
+msgstr "Полето Потребителско име е задължително за попълване!"
+
+#: includes/profile.php:100
+#: includes/registration.php:103
+#@ mtltextdomain
+msgid "Password is missing!"
+msgstr "Полето Парола е задължително за попълване!"
+
+#: includes/profile.php:103
+#: includes/registration.php:106
+#@ mtltextdomain
+msgid "Email is missing"
+msgstr "Полето Email е задължително за попълване!"
+
+#: includes/mtl_import_admin.php:60
+#@ mtltextdomain
+msgid "Include reCaptcha in registration page"
+msgstr "Вмъкни reCaptcha в страницата за регистрация на потребител"
+
+#: includes/mtl_import_admin.php:68
+#@ mtltextdomain
+msgid "Site key"
+msgstr "Site key"
+
+#: includes/profile.php:122
+#: includes/registration.php:131
+#@ mtltextdomain
+msgid "Must pass the test for the robot. The last field of your form to fill out."
+msgstr "Трябва да преминете проверката за това дали сте робот. Попълнете най-долната част от Вашата форма."
+
+#: includes/profile.php:88
+#@ mtltextdomain
+msgid "Change"
+msgstr "Промени"
+
+#: includes/profile.php:151
+#@ mtltextdomain
+msgid "Registration problem. Try later"
+msgstr "Възникна проблем с регистрацията. Моля опитайте по-късно."
+
+#: includes/profile.php:153
+#@ mtltextdomain
+msgid "Changing registration data complete successfully"
+msgstr "Промяната на регистрационните Ви данни е успешна"
+
+#: includes/profile.php:231
+#@ mtltextdomain
+msgid "Registration need. Goto"
+msgstr "Необходима регистрация в сайта за да ползвате тази функционалност. Моля посете"
+
+#: includes/functions.php:71
+#, php-format
+#@ mtltextdomain
+msgid "Minimum length of %d characters"
+msgstr "Изискват се минимум %d знака"
+
+#: includes/mtl_import_admin.php:80
+#@ mtltextdomain
+msgid "Minimum password length"
+msgstr "Минимална дължина на паролата"
+
+#: includes/recover.php:31
+#@ mtltextdomain
+msgid "Password"
+msgstr "Парола"
+
+#: includes/recover.php:36
+#@ mtltextdomain
+msgid "Repeat Password"
+msgstr "Повтори паролата"
+
+#: includes/recover.php:42
+#@ mtltextdomain
+msgid "Reset Password"
+msgstr "Промени паролата"
+
+#: includes/recover.php:56
+#@ mtltextdomain
+msgid "Please enter your username or email address."
+msgstr "Моля въведете Вашето потребителско име или email адрес."
+
+#: includes/recover.php:56
+#@ mtltextdomain
+msgid "You will receive a link to create a new password via email."
+msgstr "Ще получите връзка на Вашия email за промяна на паролата."
+
+#: includes/recover.php:61
+#@ mtltextdomain
+msgid "Username or E-mail"
+msgstr "Потребителско име или парола"
+
+#: includes/recover.php:67
+#@ mtltextdomain
+msgid "Get New Password"
+msgstr "Сменете Вашата парола"
+
+#: includes/recover.php:95
+#@ mtltextdomain
+msgid "The username entered wasn't found in the database!"
+msgstr "Въведеното потребителско име не съществува в нашата система!"
+
+#: includes/recover.php:95
+#@ mtltextdomain
+msgid "Please check that you entered the correct username."
+msgstr "Моля проверете дали сте въвели правилно потребителското си име."
+
+#: includes/recover.php:102
+#@ mtltextdomain
+msgid "Check your e-mail for the confirmation link."
+msgstr "Проверете Вашия email за връзка за потвърждаване на паролата."
+
+#: includes/recover.php:114
+#, php-format
+#@ mtltextdomain
+msgid "Someone requested that the password be reset for the following account: <b>%1$s</b><br/>If this was a mistake, just ignore this email and nothing will happen.<br/>To reset your password, visit the following link:%2$s"
+msgstr "Някой е изпратил заявка за смяна на паролата на следния профил: <b>%1$s</b><br/>Ако не сте я изпратили вие, просто игнорирайте този email.<br/>За да промените Вашата парола, моля посетете тази връзка: %2$s"
+
+#: includes/recover.php:115
+#, php-format
+#@ mtltextdomain
+msgid "Password Reset from \"%1$s\""
+msgstr "Паролата е променена от \"%1$s\""
+
+#: includes/recover.php:122
+#, php-format
+#@ mtltextdomain
+msgid "There was an error while trying to send the activation link to %1$s!"
+msgstr "Възникна грешка при опит за изпращане на активационната връзка на %1$s!"
+
+#: includes/recover.php:128
+#@ mtltextdomain
+msgid "The email address entered wasn't found in the database!"
+msgstr "Този email адрес не може да бъде намерен в нашата система!"
+
+#: includes/recover.php:128
+#@ mtltextdomain
+msgid "Please check that you entered the correct email address."
+msgstr "Моля проверете дали сте въвели правилния email адрес."
+
+#: includes/recover.php:141
+#, php-format
+#@ mtltextdomain
+msgid "The password must have the minimum length of %s characters"
+msgstr "Паролата трябва да съдържа минимум %s знака"
+
+#: includes/recover.php:146
+#@ mtltextdomain
+msgid "Your password has been successfully changed!"
+msgstr "Вашата парола беше успешно сменена!"
+
+#: includes/recover.php:156
+#, php-format
+#@ mtltextdomain
+msgid "You have successfully reset your password to: %1$s"
+msgstr "Вие успешно сменихте паролата си на: %1$s"
+
+#: includes/recover.php:157
+#: includes/recover.php:165
+#, php-format
+#@ mtltextdomain
+msgid "Password Successfully Reset for %1$s on \"%2$s\""
+msgstr "Паролата успешно е сменена от  %1$s на \"%2$s\""
+
+#: includes/recover.php:164
+#, php-format
+#@ mtltextdomain
+msgid "%1$s has requested a password change via the password reset feature.<br/>His/her new password is:%2$s"
+msgstr "%1$s е подал заявка за смяна на паролата през системата.<br/>Неговата/Нейната нова парола е: %2$s"
+
+#: includes/recover.php:177
+#@ mtltextdomain
+msgid "The entered passwords don't match!"
+msgstr "Въведената парола не е една и съща!"
+
+#: includes/recover.php:206
+#@ mtltextdomain
+msgid "ERROR:"
+msgstr "ГРЕШКА:"
+
+#: includes/recover.php:206
+#@ mtltextdomain
+msgid "Invalid key!"
+msgstr "Грешен ключ!"
+
+#: includes/admin.php:5
+#: includes/mtl_import_admin.php:40
+#@ mtltextdomain
+msgid "MaxtradeLogin options page"
+msgstr "Настройки на MaxtradeLogin"
+
+#: includes/admin.php:5
+#@ mtltextdomain
+msgid "MTL Options"
+msgstr "MTL Настройки"
+
+#. translators: plugin header field 'Name'
+#: maxtrade-login.php:0
+#@ mtltextdomain
+msgid "MaxtradeLogin"
+msgstr ""
+
+#. translators: plugin header field 'PluginURI'
+#: maxtrade-login.php:0
+#@ mtltextdomain
+msgid "http://software.avalonbg.com/maxtradelogin"
+msgstr ""
+
+#. translators: plugin header field 'Description'
+#: maxtrade-login.php:0
+#@ mtltextdomain
+msgid "User management plugin. Login, register, profile and change password."
+msgstr ""
+
+#. translators: plugin header field 'AuthorURI'
+#: maxtrade-login.php:0
+#@ mtltextdomain
+msgid "http://software.avalonbg.com/ilko"
+msgstr ""
+
+#: includes/mtl_import_admin.php:56
+#@ mtltextdomain
+msgid "MaxtradeLogin reCaptcha setting"
+msgstr "Настройки на MaxtradeLogin reCaptcha"
+
+#: includes/mtl_import_admin.php:76
+#@ mtltextdomain
+msgid "MaxtradeLogin user profile setting"
+msgstr "Настройки на потребителския профил"
+
+#: includes/login_widgets.php:9
+#@ mtltextdomain
+msgid "MTL Users"
+msgstr "MTL Потребители"
+
+#: includes/login_widgets.php:59
+#@ mtltextdomain
+msgid "Dashboard"
+msgstr "Табло за управление"
+
+#: includes/login_widgets.php:53
+#@ mtltextdomain
+msgid "My profile"
+msgstr "Моя профил"
+
+#: includes/login_widgets.php:53
+#@ mtltextdomain
+msgid "Edit my profile"
+msgstr "Променете данните в профила си"
+
+#: includes/functions.php:42
+#: includes/login_widgets.php:56
+#@ mtltextdomain
+msgid "My items"
+msgstr "Моите публикации"
+
+#: includes/login_widgets.php:56
+#@ mtltextdomain
+msgid "Wiew my items"
+msgstr "Прегледайте Вашите публикации"
+
+#: includes/login_widgets.php:119
+#@ mtltextdomain
+msgid "Display profile link "
+msgstr "Покажи връзка за моя профил"
+
+#: includes/login_widgets.php:122
+#@ mtltextdomain
+msgid "Display items link "
+msgstr "Покажи връзка за моите публикации"
+
+#: includes/login_widgets.php:125
+#@ mtltextdomain
+msgid "Display dashboard link "
+msgstr "Покажи връзка за табло за управление"
+
+#: includes/mtl_import_admin.php:44
+#@ mtltextdomain
+msgid "MaxtradeLogin menu setting"
+msgstr "Настройки на менюто на Вашия сайт"
+
+#: includes/mtl_import_admin.php:48
+#@ mtltextdomain
+msgid "Include items in menus"
+msgstr "Да се включат ли моите публикации в менюто на Вашия сайт?"
+
