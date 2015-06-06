@@ -8,14 +8,14 @@ Stable tag: 4.2
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
-The module delivered to your WordPress site management features to its users.
+The module delivered to your WordPress site management features to its users. Registration form may use reCaptcha.
 
 == Description ==
 
 The module delivered to your WordPress site management features to its users. It allows to visualize the state of 
 the current user of your site, and shows additional information about it. Facilitates input into your site and the 
 outcome of it. Allows change personal user data. a user may consider systematized all your publications. A direct 
-link to the control panel. It allows to change the forgotten user password.
+link to the control panel. It allows to change the forgotten user password. Registration form may use reCaptcha.
 
 A widget that you can use in any of the other bands or side of your site. The widget allows you to visualize the data 
 for the current user, and creates links to management.
