@@ -76,9 +76,9 @@ the 'Plugins' menu in WordPress.
 == Changelog ==
 
 = 1.0.1 =
-
+* First version, no changes made.
 
 == Upgrade Notice ==
 
-= 1.0 =
+= 1.0.1 =
 This version change visual styles.
