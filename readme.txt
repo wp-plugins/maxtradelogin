@@ -77,11 +77,11 @@ the 'Plugins' menu in WordPress.
 
 == Changelog ==
 
-= 1.0.1 =
-* First version, no changes made.
-
 = 1.0.2 =
 * Add Gravatar avatar function to login widget. Show avatar on user login widget.
+
+= 1.0.1 =
+* First version, no changes made.
 
 == Upgrade Notice ==
 
