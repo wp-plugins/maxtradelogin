@@ -8,7 +8,8 @@ Stable tag: 4.2
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
-User management plugin. Add login, logout, user registration, lost password, dashboard, change profile, my items. Registration form may use reCaptcha.
+User management plugin. Add login, logout, user registration, lost password, dashboard, change profile, my items. 
+Registration form may use reCaptcha. The widget visualize avatars from gravatar.
 
 == Description ==
 
