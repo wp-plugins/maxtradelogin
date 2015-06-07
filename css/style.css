@@ -1,0 +1,9 @@
+.mtl_success{
+    color: green;
+}
+.mtl_error{
+    color: red;
+}
+.mtl_warning{
+    color: brown;
+}
